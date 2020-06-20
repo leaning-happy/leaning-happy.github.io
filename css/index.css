@@ -1,0 +1,49 @@
+/*这里是首页所用的css*/
+.maincontent{
+	width:600px;
+	float:left;
+	height:auto;
+	padding-bottom:10px;
+}
+.leaves{
+	padding-top:100px;
+	width:199px;
+	float:left;
+	border-left:1px solid rgba(2,29,44,0.1);
+}
+.mainul p.date{
+	color:#80A7D2;
+}
+.mainul p.title{
+	
+}
+.mainul p.con{
+	text-indent:2em;
+	color:#9EE4F5;
+}
+.mainul p{
+	margin:0;
+}
+.mainul li{
+	margin:20px 0;
+}
+.leaves ul{
+	padding-left:10px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;	
+}
+.leaves li{
+	height:100px;
+	width:150px;
+	margin:12px 0;
+}
+.leaves img{
+	float:left;
+	width:50%;
+	height:100%;
+}
+.leaves div{
+	float:left;
+	width:50px;
+}

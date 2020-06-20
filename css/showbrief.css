@@ -1,0 +1,14 @@
+table{
+	padding:50px;
+}
+table td.chac{
+	width:5em;
+	height:3em;
+	overflow:hidden;
+	padding-right:3em;
+}
+table td{
+	height:3em;
+	overflow:hidden;
+	width:auto;
+}

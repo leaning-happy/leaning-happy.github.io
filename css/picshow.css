@@ -1,0 +1,13 @@
+.content{
+	width:800px;
+	float:left;
+}
+.content img{
+	padding-right:10px;
+	width:150px;
+	height:100px;
+	float:left;
+}
+.content div{
+	height:150px;
+}

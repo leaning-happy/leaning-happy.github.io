@@ -1,0 +1,53 @@
+/*这里是公用的css*/
+body{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style:none;
+}
+.body{
+	width:100%;
+	background:rgba(2,29,44,0.8);/*定义主题基调为偏蓝色*/
+	font-family:sans-serif;
+	color:rgba(128,255,255,1);
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+a.selected{
+	color:#74BFE0;
+}
+a:hover{
+	color:rgba(155,170,177,1);
+}
+.bodymain{
+	width:1000px;
+	margin:0 auto;
+}
+.head,.main,.end{
+	width:100%;
+}
+.main{
+	height:600px;
+}
+.head p{
+	display:block;
+	text-align:right;
+}
+.head{
+	margin-bottom:100px;
+	border-bottom:2px solid rgba(2,29,44,0.1);
+}
+.end p{
+	text-align:center;
+}
+.menuleft{
+	width:199px;
+	border-right:1px solid rgba(2,29,44,0.1);
+	float:left;
+}
+.menuleft li{
+	margin:10px 0;
+}

@@ -1,0 +1,21 @@
+form{
+	padding-top:20px;
+	border-top:2px solid rgba(2,29,44,0.1);
+	color:rgba(10,200,200,1);
+}
+.content{
+	float:left;
+	width:800px;
+}
+input,textarea{
+	background:rgba(2,29,44,0.3);
+	border:none;
+}
+textarea{
+	width:400px;
+	height:100px;
+}
+input[type="submit"]{
+	margin-left:15px;
+	background:white;
+}
